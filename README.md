@@ -1,5 +1,4 @@
-
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Asad Qureshi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **asadeee998@gmail.com**
 
-- ⚡ Fun fact **I think i m serious**
+- ⚡ Fun fact **Chai Over Coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
