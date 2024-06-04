@@ -2,13 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Asad Qureshi</h1>
 <h3 align="center">A passionate Programmer from Pakistan</h3>
+<p align="center">Build and ship powerful apps to devices such as iOS and Android using a single codebase. Write readable code using Dart programming language. Produce clear documentation. Understand UI design concepts and develop user-friendly mobile applications using Flutter.
 
 
 
 
 
 
-🛠️</p>
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=JunaidJameel&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidJameel" /> 
 
