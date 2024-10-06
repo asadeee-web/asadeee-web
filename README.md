@@ -2,28 +2,24 @@
 
 <h1 align="center">Hi 👋, I'm Asad Qureshi</h1>
 <h3 align="center">A passionate Programmer from Pakistan</h3>
-<p align="center">Build and ship powerful apps to devices such as iOS and Android using a single codebase. Write readable code using Dart programming language. Produce clear documentation. Understand UI design concepts and develop user-friendly mobile applications using Flutter.
-
-
-
-
-
+<p align="center">I am an experienced iOS and Android app developer with a passion for creating seamless, high-performance mobile experiences using Flutter. With expertise in both frontend and backend development, I specialize in crafting visually appealing and highly functional apps that meet modern user expectations.
+My proficiency in Flutter enables me to build cross-platform apps with intuitive user interfaces and optimized performance, while my deep understanding of Firebase ensures secure, scalable backend solutions. From real-time data handling to user authentication and cloud integration, I deliver end-to-end solutions tailored to client needs
 
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=JunaidJameel&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidJameel" /> 
+ <img src="https://komarev.com/ghpvc/?username=asadeee-web&label=Profile%20views&color=0e75b6&style=flat" alt="Asad Qureshi" /> 
 
 </p>
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
-<a href="https://www.linkedin.com/in/asadeee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/codewithasadee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="42" /></a>
+<a href="https://www.linkedin.com/in/asadeee/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="asadeee" height="45" width="45" /></a>
+<a href="https://www.instagram.com/codewithasadee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="45" width="45" /></a>
 
 </p>
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
 ### Languages and Tools:
@@ -40,9 +36,9 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Back-End Dev**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Flutter, Dart, Firebase and API**
+- 💬 Ask me about **Flutter, Dart, Firebase and APIs**
 
 - 📫 How to reach me **asadeee998@gmail.com**
 
