@@ -4,11 +4,6 @@
 <h3 align="center">A passionate Programmer from Pakistan</h3>
 <p align="center">I am an experienced iOS and Android app developer with a passion for creating seamless, high-performance mobile experiences using Flutter. With expertise in both frontend and backend development, I specialize in crafting visually appealing and highly functional apps that meet modern user expectations.
 My proficiency in Flutter enables me to build cross-platform apps with intuitive user interfaces and optimized performance, while my deep understanding of Firebase ensures secure, scalable backend solutions. From real-time data handling to user authentication and cloud integration, I deliver end-to-end solutions tailored to client needs
-
-
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=asadeee-web&label=Profile%20views&color=0e75b6&style=flat" alt="Asad Qureshi" /> 
-
 </p>
 
 <h3 align="Center">Connect with me:</h3>
