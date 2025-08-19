@@ -17,7 +17,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,firebase,github,git,postman)](https://skillicons.dev)
 <br><br>
 
 ![Asad Qureshi GitHub stats](https://github-readme-stats.vercel.app/api?username=asadeee-web&show_icons=true&theme=dark)
