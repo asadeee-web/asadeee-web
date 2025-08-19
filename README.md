@@ -30,15 +30,12 @@
 <br><br>
 
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 Currently working on **Flutter Apps & Cross-Platform Development**  
+- 🌱 Expanding my skills in **Backend Development (Node.js, MongoDB, APIs)**  
+- 💬 Ask me about **Flutter, Dart, Firebase, REST APIs, and App Deployment**  
+- 📫 Reach me at **asadeee998@gmail.com**  
+- ⚡ Fun fact: **I turn chai ☕ into clean code 🚀**  
 
-- 🌱 I’m currently learning **Backend**
-
-- 💬 Ask me about **Flutter, Dart, Firebase and APIs**
-
-- 📫 How to reach me **asadeee998@gmail.com**
-
-- ⚡ Fun fact **I do code for living**
 
 
 
