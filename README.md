@@ -1,9 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Asad Qureshi</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
-<p align="center">I am an experienced iOS and Android app developer with a passion for creating seamless, high-performance mobile experiences using Flutter. With expertise in both frontend and backend development, I specialize in crafting visually appealing and highly functional apps that meet modern user expectations.
-My proficiency in Flutter enables me to build cross-platform apps with intuitive user interfaces and optimized performance, while my deep understanding of Firebase ensures secure, scalable backend solutions. From real-time data handling to user authentication and cloud integration, I deliver end-to-end solutions tailored to client needs
+<p align="center">As a Full-Stack Mobile App Developer based in Pakistan, I specialize in building cross-platform mobile applications with a focus on performance, clean UI/UX, and real business value. Skilled in Dart, Flutter, Node.js, RESTful APIs, Firebase, MongoDB Provider state management, I bring both frontend and backend expertise to the table.
+💡 I’m always open to discussing exciting projects, collaborations, and opportunities where I can apply my skills to create impactful digital solutions. If you’re looking for someone who delivers quality work with dedication, let’s connect!
 </p>
 
 <h3 align="Center">Connect with me:</h3>
